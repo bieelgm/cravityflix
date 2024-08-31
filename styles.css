@@ -1,0 +1,47 @@
+body{
+    color: white;
+    background: black;
+}
+
+header{
+    border-bottom: solid 1px rgb(114, 0, 0);
+    margin: 30px;
+    padding: 10px;
+    font-size: 40px;
+    color: rgb(102, 0, 0);
+    
+    
+}
+
+section{
+    
+    margin: 15px;
+    padding: 60px;
+}
+
+section {
+
+    background:rgb(65, 0, 0)
+    
+}
+
+p{
+    margin: 10px;
+    font-size: 20px;
+    display: flex;
+    
+}
+
+h2{
+    font-size: 20px;
+}
+
+img{
+    height: 300px;
+}
+
+
+
+
+
+
